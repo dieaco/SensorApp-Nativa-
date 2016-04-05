@@ -1,0 +1,85 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="35dp"
+    android:paddingRight="35dp"
+    android:gravity="center"
+    android:background="#0b63ba"
+    tools:context="com.ciego.sensorappnativa.MainActivity">
+
+    <ImageView
+        android:contentDescription="@string/app_name"
+        android:id="@+id/ivLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logosensor75"
+        android:layout_marginBottom="40dp"/>
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/bordes_redondeados_edittext"
+        android:focusable="true"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        android:textColorHint="#ffffff"
+        android:hint="@string/correoElectronico"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/bordes_redondeados_edittext"
+        android:inputType="textPassword"
+        android:textSize="18sp"
+        android:textColorHint="#ffffff"
+        android:hint="@string/contrasena"
+        android:layout_marginBottom="20dp"/>
+    
+    <EditText
+        android:id="@+id/etRegId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/bordes_redondeados_edittext"
+        android:inputType="text"
+        android:textSize="18sp"
+        android:textColorHint="#ffffff"
+        android:hint="@string/regId"
+        android:lines="1"
+        android:layout_marginBottom="20dp"/>
+    
+    <CheckBox 
+        android:id="@+id/cbRecordar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sessionAbierta"
+        android:textColor="#ffffff"
+        android:textSize="14sp" 
+        android:checked="true"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnEntrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bordes_redondeados_button"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/iniciarSesion"/>
+
+</LinearLayout>

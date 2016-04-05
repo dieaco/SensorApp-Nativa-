@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorApp(Nativa)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_dashbord">DashbordActivity</string>
+
+    <!-- Login Textos -->
+    <string name="correoElectronico">Correo Electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciarSesion">Iniciar sesión</string>
+    <string name="sessionAbierta">Deseo mantener mi sesión abierta</string>
+    <string name="regId">Cargando registro a GCM</string>
+    <string name="error_campo_obligatorio">Campo Obligatorio</string>
+    <string name="error_correo">El email debe tener el siguiente formato, correo@dominio.com</string>
+    <string name="error_contrasena">La contraseña es incorrecta</string>
+    <string name="error_regId">Debe esperar a que el Registration Id cargue</string>
+
+    <!-- Dashboard Textos -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="drawerClosed">SensorApp</string>
+    <string name="perfil">Perfil</string>
+    <string name="historial">Historial</string>
+    <string name="nuevos">Nuevos</string>
+    <string name="cerrarSesion">Cerrar sesión</string>
+    <string name="sesionFinalizada">La sesión ha finalizado exitosamente</string>
+    <string name="sesionNoFinalizada">Ocurrio un error al intentar cerrar la sesión</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

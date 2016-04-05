@@ -1,0 +1,7 @@
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\classes\debug
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d18969952effdb8bd305365afeb9cae171826c3c.jar
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\pre-dexed\debug\library-1.0.19-203c77a87a8c09ef0d5dfee28a96a45143e53629.jar
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fa4fe47d7abc9d9ce3d653f09933603399be1216.jar
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\pre-dexed\debug\classes-0686d8a8ba7b12bf95db0a9bcf0291a10d8e129f.jar
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\pre-dexed\debug\classes-75fd15b1d06c9c5c589b4c8dd96e4133ff68abf3.jar
+C:\Users\Ciego\AndroidStudioProjects\SensorApp(Nativa)\app\build\intermediates\pre-dexed\debug\google-play-services-bf618c48458d5afd6175ca8509b21b18c080158d.jar
